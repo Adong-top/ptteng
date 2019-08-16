@@ -21,7 +21,7 @@ html,body{
 	/* background-color:pink; */
 	position: relative;
 	margin-top:8%;
-	height:8%;
+	/* height:8%; */
 }
 .tops{
 	display: block;
@@ -40,14 +40,14 @@ html,body{
 	margin-left:10px;
 	margin-top:10px;
 }
-.toxiang{
+.leftLower{
 	display: inline-block;
 	margin-left:40px;
 	width:100px;
 	height:80px;
 	text-align:center;
 }
-.toxiang2{
+.lowerRight{
 	float:right;
 	margin-right:40px;
 	display: inline-block;
