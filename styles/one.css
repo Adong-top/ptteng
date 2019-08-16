@@ -1,0 +1,66 @@
+html,body{
+	margin:0;
+	height:100%;
+}
+.div-box{
+	position:relative;
+	width: 100%;
+	height: 100%;
+	background-color: rgb(104,205,213);
+	margin: 0 auto;
+}
+.myDiv{
+	float:left;
+	width:100%;
+	height:100%;
+	
+	/* margin-left:40px; */
+	/* margin-right:40px; */
+}
+.div2-box{
+	/* background-color:pink; */
+	position: relative;
+	margin-top:8%;
+	height:8%;
+}
+.tops{
+	display: block;
+	margin:0 auto;
+	height:50px;
+}
+.div3-box{
+	position: relative;
+	/* background-color: pink; */
+	margin-top:186px;
+	height:50px;
+}
+.returns{
+	width:50px;
+	height:50px;
+	margin-left:10px;
+	margin-top:10px;
+}
+.toxiang{
+	display: inline-block;
+	margin-left:40px;
+	width:100px;
+	height:80px;
+	text-align:center;
+}
+.toxiang2{
+	float:right;
+	margin-right:40px;
+	display: inline-block;
+	width:100px;
+	height:80px;
+	text-align:center;
+}
+.texts{
+	color:white;
+	text-align:center;
+	width:70%;
+	margin:101px auto;
+}
+span{
+	color:white;
+}

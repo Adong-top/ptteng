@@ -1,0 +1,27 @@
+html,body{
+	margin:0;
+	height:100%;
+	
+}
+.div-box{
+	position:relative;
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+}
+.myDiv{
+	float:left;
+	width:100%;
+	height:100%;
+	background-color: rgb(104,205,213);
+	margin-right:40px;
+}
+.div3-box{
+	position: relative;
+	/* background-color: pink; */
+	margin-bottom:13%;
+	height:50px;
+}
+.texts{
+	height:201px;
+}
